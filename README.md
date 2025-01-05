@@ -38,7 +38,7 @@ This repository is a blueprint for a decentralized, data-driven trading platform
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/ trading.git
+   git clone https://github.com/Path-Trading/pathtradingaigod.git
    cd ai_trading_platform
    ```
 
