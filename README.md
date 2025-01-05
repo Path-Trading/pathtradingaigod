@@ -1,4 +1,4 @@
-# path trading
+# Path trading
 
 Welcome to the **path trading** - where cutting-edge AI meets financial trading. This repository contains the framework for a platform that processes social signals and converts them into actionable trading strategies.
 
